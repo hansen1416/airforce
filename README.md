@@ -13,3 +13,24 @@ If you want your website to be at `YOUR-USERNAME.github.io`, that's what you mus
 **If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
+
+
+Projects:
+  todo: add details for each projects
+  todo: add more projects
+
+  - Multi-modal Control for Robotic Devices
+  - Central Artificial Intelligence
+
+Team:
+  todo: add missing photo
+  todo: add personal introduction
+
+  STAFF: 
+  Students: Linkedin link
+
+Study-or-Work-With-Us:
+  todo: link/email for Work with our team
+
+Contact:
+  todo: update Privacy Policy content
