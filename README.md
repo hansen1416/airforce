@@ -16,21 +16,25 @@ If you want your website to be at `YOUR-USERNAME.github.io`, that's what you mus
 
 
 Projects:
-  todo: add details for each projects
-  todo: add more projects
 
-  - Multi-modal Control for Robotic Devices
-  - Central Artificial Intelligence
+    Todo: Add details for each project, possibly separate pages.
+    Todo: Add more projects.
+
+    - Multi-modal Control for Robotic Devices
+    - Central Artificial Intelligence
 
 Team:
-  todo: add missing photo
-  todo: add personal introduction
 
-  STAFF: 
-  Students: Linkedin link
+    Todo: Add missing photo.
+    Todo: Add personal introductions, with separate pages for each.
 
-Study-or-Work-With-Us:
-  todo: link/email for Work with our team
+    STAFF: add missing photo, ask for more links
+    Students: Add LinkedIn link.
+
+Study or Work With Us:
+
+    Todo: Add link/email for working with our team.
 
 Contact:
-  todo: update Privacy Policy content
+
+    Todo: Update Privacy Policy content.
